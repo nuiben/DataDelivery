@@ -1,6 +1,6 @@
 # DataDelivery
 
-Welcome to my Data Engineering Portfolio! This repository showcases my journey in building an end-to-end data solution, from database setup to advanced ETL processes and finally to a data warehousing solution. This is my spin on implementing a project based on the topics I'm learning from [IBM's Data Engineering Basics](https://www.edx.org/professional-certificate/ibm-data-engineering) on edX.
+Welcome to my Data Engineering Portfolio! This repository showcases my journey in building an end-to-end data solution, from database setup to advanced ETL processes and finally to a data warehousing solution. This is my spin on implementing a project based on the topics I'm learning from [IBM's Data Engineering](https://www.edx.org/professional-certificate/ibm-data-engineering) professional certificate on edX.
 
 All details of the project are subject to change and improvement.
 
